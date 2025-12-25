@@ -75,7 +75,7 @@ Marketing strategy optimization
 Regional sales comparison
 
 # Snapshot
-
+<img width="879" height="488" alt="Image" src="https://github.com/user-attachments/assets/f4bb6c75-effa-4a5e-ac46-96581b5f84df" />
 
 # Author
 
